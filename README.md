@@ -24,6 +24,8 @@ of these in detail, and far superior descriptions are avaliable online. Thirdly,
 the satellites, which are used to characterise the echoes of sea ice and lead, as well as a variety of ice-surfaces based on the quality of 
 roughness. 
 
+To gather the dataset that you desire, first run the colocation code, and then to process it use the means clustering and classification code. 
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
@@ -48,3 +50,8 @@ The thrust of this project lies in K and GMM means clustering, a complicated ele
 [![Video Presentation](https://img.youtube.com/vi/4FG0TWJRRPI/0.jpg)](https://www.youtube.com/watch?v=4FG0TWJRRPI)
 
 **I reccomend that you watch both of these tutorials before you attempt to run this code!**
+
+## What I Produced!
+
+I used this code to colocate a section of the Antarctic, classify the optical data into the bounds of sea-ice and lead, and then classified the altimetry data to produce characteristic echoes for, again, sea-ice and lead. Below are the products of the code as written!
+
