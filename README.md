@@ -3,7 +3,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/satellite-flat-icon.png" alt="Logo" width="80" height="80">
   </a>
 
   <h1 align="center">Sentinel Satellite (2 and 3) Co-location and Unsupervised Machine Learning</h1>
