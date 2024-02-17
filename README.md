@@ -38,6 +38,11 @@ roughness.
 
 <!-- GETTING STARTED -->
 ## Getting Started
-To being, open an interactive workbook within the Jupityr Notebook/ Google Colab ecosystem, and register with a Google account:
+
+This project operates predominantly within the Google Colab/ Jupityr Notebook enviornment. This youtube tutorial succintly explains how to get this working if you are previously unfamiliar:
+
 [![Video Tutorial](https://img.youtube.com/vi/agj3AxNPDWU/0.jpg)](https://www.youtube.com/watch?v=agj3AxNPDWU)
 
+The thrust of this project lies in K and GMM means clustering, a complicated element within the obfuscated field of artifical intellenge. This tutorial explains the mathematical and practical basis and application of these to image and altimetry data:
+
+[![Video Presentation](https://img.youtube.com/vi/4FG0TWJRRPI/0.jpg)](https://www.youtube.com/watch?v=4FG0TWJRRPI)
