@@ -46,3 +46,5 @@ This project operates predominantly within the Google Colab/ Jupityr Notebook en
 The thrust of this project lies in K and GMM means clustering, a complicated element within the obfuscated field of artifical intellenge. This tutorial explains the mathematical and practical basis and application of these to image and altimetry data:
 
 [![Video Presentation](https://img.youtube.com/vi/4FG0TWJRRPI/0.jpg)](https://www.youtube.com/watch?v=4FG0TWJRRPI)
+
+**I reccomend that you watch both of these tutorials before you attempt to run this code!**
