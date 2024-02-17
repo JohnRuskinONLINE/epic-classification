@@ -55,6 +55,6 @@ The thrust of this project lies in K and GMM means clustering, a complicated ele
 
 I used this code to colocate a section of the Antarctic, classify the optical data into the bounds of sea-ice and lead, and then classified the altimetry data to produce characteristic echoes for, again, sea-ice and lead. Below are the products of the code as written!
 
-![My K-means clustered Sentinel-2 optical data](K-means%20clustering%20on%20Sentinel%202%20bands.png)
-![My GMM-means clustered Sentinel-2 optical data](GMM%clustering.png)
-![My characterised altimetry data!](CharacterisedWaves.png)
+![My K-means clustered Sentinel-2 optical data](images/K-means%20clustering%20on%20Sentinel%202%20bands.png)
+![My GMM-means clustered Sentinel-2 optical data](images/GMM%clustering.png)
+![My characterised altimetry data!](images/CharacterisedWaves.png)
